@@ -11,15 +11,16 @@ Dieses GIT ist stets auf dem aktuellen Stand, wird jedoch nicht als Stable gehan
 Falls Fehler gefunden werden, oder Verbesserungsvorschläge bestehen, bin ich (fast) immer erreichbar.
 
 ### Sprachpakete
-Aktuell unterstützt das System Deutsch und Englisch, kann allerdings durch Sprachpakete erweitert werden.
+Aktuell unterstützt das System Deutsch, Englisch und den Schweizerdialekt Berndeutsch, kann allerdings durch Sprachpakete erweitert werden.
 Ich freue mich über jedes Sprachpaket, welches ich in dieses GIT übernehmen oder verlinken darf!
 
 
 #### Übersicht über verfügbare Sprachpakete
-| Sprache  | Kürzel | wc_langPack       |
-| :------- |:------:|:----------------- |
-| Deutsch  | DE     | wc_langPack_DE.js |
-| Englisch | EN     | wc_langPack_EN.js |
+| Sprache         | Kürzel   | wc_langPack            |
+| :-------------- |:--------:|:---------------------- |
+| Deutsch         | DE       | wc_langPack_DE.js      |
+| Englisch        | EN       | wc_langPack_EN.js      |
+| CH, Berndeutsch | CH_BERN  | wc_langPack_CH_BERN.js |
 
 ## Screenshot
 
