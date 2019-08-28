@@ -26,9 +26,6 @@ wc_addLanguagePack({
 			h %= 12;
 			if(h == 0) h = 12;
 			var hourNames = ['EIS','ZWÖI','DRÜÜ','VIERI','FÜFI','SÄCHSI','SIBNI','ACHTI','NÜNI','ZÄHNI','EUFI','ZWÖUFI'];
-			console.log((settings.round ? (Math.round(m / 5) * 5):Math.floor(m/5)*5) % 60);
-			console.log(hourNames[h-1])
-			console.log(hourNames[h%12])
 			switch ((settings.round ? (Math.round(m / 5) * 5):Math.floor(m/5)*5) % 60) {
 				case 0:
 					ret += ((h==1)?'EIS':hourNames[h-1]);
